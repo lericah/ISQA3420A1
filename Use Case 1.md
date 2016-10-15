@@ -4,7 +4,7 @@
 
 **Primary Actor:** Manager
 
-**Goal in Context:** The Manager is able to retrieve stored information on OSS licenses and Security Vulnerabilities associated with specific software components
+**Goal in Context:** The Manager must be able to retrieve stored information on OSS licenses and Security Vulnerabilities associated with specific software components
 
 **Stakeholders:** Developer and Manager
 
