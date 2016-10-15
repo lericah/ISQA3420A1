@@ -11,6 +11,10 @@
 
 **Component** - a distinct indivisible piece of software with licensing information
 
+**Record** - an individual unit in the database
+
+**Attribute** - a single element that describes a record
+
 **OSS license** - any software copyright license which meets the Open Source Software(OSS) standards of Free distribution, Free availability and Free Modification
 
 **NIST** - National Institute of Standards and Technology
