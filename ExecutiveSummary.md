@@ -13,3 +13,7 @@ This Project is composed of several components which each have their own associa
 
 **OSS license scanner** - process the scans compenents it receives and identifies the OSS license associated with the component as well as vital details
 
+**Manager Report builder** - takes queries from the Manager, forms them into requests and receives the output from the Database befor forming it into a report for the manager
+
+**** - 
+
