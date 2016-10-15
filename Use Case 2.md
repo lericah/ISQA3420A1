@@ -1,17 +1,17 @@
 #Use Case 1
 
-**Title:**
+**Title:** Request for package information
 
-**Primary Actor:**
+**Primary Actor:** Developer
 
-**Goal in Context:**
+**Goal in Context:** Get License and Vulnerability information on relevant software components
 
-**Stakeholders:**
+**Stakeholders:** Developer
 
-**Preconditions:**
+**Preconditions:** There must be a package with individual components and relevant OSS and vulnerability attributes
 
-**Main Success Scenario:**
+**Main Success Scenario:** The Developer is able to receive the relevan package OSS and NIST vulnerability information they query
 
-**Failed End Scenario:**
+**Failed End Scenario:** The Developer receives an incomplete response from the system or the information is incorrect
 
-**Trigger:**
+**Trigger:** Developer submits a request to the query system and it accesses the Database
