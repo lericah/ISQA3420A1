@@ -1,4 +1,4 @@
-#Use Case 1
+#Use Case 2
 
 **Title:** Request for package information
 
