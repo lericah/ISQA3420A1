@@ -15,5 +15,5 @@ This Project is composed of several components which each have their own associa
 
 **Manager Report builder** - takes queries from the Manager, forms them into requests and receives the output from the Database befor forming it into a report for the manager
 
-**** - 
+**Developer Query tool** - allows the Developer to query the Database for relevant information on licenses and known NIST vulnerabilities in previously submitted packages 
 
