@@ -6,7 +6,10 @@ This Project focuses on parsing packages of software and identifying the relevan
 This information will then be stored in a database so it can be freely queried by developers and managers within the company.
 ##Project Components
 This Project is composed of several components which each have their own associated process. The results of the processes will ultimately result in output that the devewlopers and managers will utilize
+
 **Package parser** - takes package input from the Developer and seperates the package(s) into individual components of software
-**NIST database system** - 
-**OSS license scanner**
+
+**NIST database system** - National Institute of Standards and Technology database of known security vulnerabilities in software
+
+**OSS license scanner** - process the scans compenents it receives and identifies the OSS license associated with the component as well as vital details
 
