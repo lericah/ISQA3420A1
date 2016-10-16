@@ -4,13 +4,13 @@
 
 **Primary Actor:** Developer
 
-**Goal in Context:** Get License and Vulnerability information on relevant software components
+**Goal in Context:** Get License and Vulnerability information on relevant software components for development purposes
 
 **Stakeholders:** Developer
 
 **Preconditions:** There must be a package with individual components and relevant OSS and vulnerability attributes
 
-**Main Success Scenario:** The Developer is able to receive the relevan package OSS and NIST vulnerability information they query
+**Main Success Scenario:** The Developer is able to receive the relevant package OSS and NIST vulnerability information they query
 
 **Failed End Scenario:** The Developer receives an incomplete response from the system or the information is incorrect
 
